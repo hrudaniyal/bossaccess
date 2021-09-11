@@ -1,0 +1,374 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullname": "alok nial",
+      "about": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus ad possimus nihil. Odit tempore eaque doloribus laboriosam. Minus eius placeat iure non aut natus totam ullam expedita possimus iste quibusdam itaque ex, dignissimos veritatis labore, beatae numquam, id quam ipsam laudantium praesentium.",
+      "username": "alok",
+      "password": "aloknial",
+      "image": "/image/alok.jpg",
+      "jobposition": "robotics",
+      "salary": 50000,
+      "currentproject": "robotic hand",
+      "joiningdate": "05/02/2015",
+      "islogin": false,
+      "attendance": [
+        {
+          "id": 1,
+          "date": "15/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 2,
+          "date": "16/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 3,
+          "date": "17/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "18/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "22/05/2021",
+          "attendance": "present",
+          "aparture": "14:31",
+          "departure": "20:31"
+        },
+        {
+          "id": 7,
+          "date": "02/09/2021",
+          "attendance": "present",
+          "aparture": "10:00",
+          "departure": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullname": "deepak nial",
+      "about": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus ad possimus nihil. Odit tempore eaque doloribus laboriosam. Minus eius placeat iure non aut natus totam ullam expedita possimus iste quibusdam itaque ex, dignissimos veritatis labore, beatae numquam, id quam ipsam laudantium praesentium.",
+      "username": "deepak",
+      "password": "deepaknial",
+      "image": "/image/deepak.jpg",
+      "jobposition": "ux designer",
+      "salary": 50000,
+      "currentproject": "boss landing page",
+      "joiningdate": "05/02/2015",
+      "islogin": false,
+      "attendance": [
+        {
+          "id": 1,
+          "date": "15/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 2,
+          "date": "16/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 3,
+          "date": "17/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "18/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "22/05/2021",
+          "attendance": "present",
+          "aparture": "14:31",
+          "departure": "20:31"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullname": "umesh nial",
+      "about": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus ad possimus nihil. Odit tempore eaque doloribus laboriosam. Minus eius placeat iure non aut natus totam ullam expedita possimus iste quibusdam itaque ex, dignissimos veritatis labore, beatae numquam, id quam ipsam laudantium praesentium.",
+      "username": "umesh",
+      "password": "umeshnial",
+      "image": "/image/umesh.jpg",
+      "jobposition": "tester",
+      "salary": 50000,
+      "currentproject": "chain system",
+      "joiningdate": "23/09/2016",
+      "islogin": false,
+      "attendance": [
+        {
+          "id": 1,
+          "date": "15/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 2,
+          "date": "16/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 3,
+          "date": "17/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "18/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "22/05/2021",
+          "attendance": "present",
+          "aparture": "14:31",
+          "departure": "20:31"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullname": "utkal nial",
+      "about": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus ad possimus nihil. Odit tempore eaque doloribus laboriosam. Minus eius placeat iure non aut natus totam ullam expedita possimus iste quibusdam itaque ex, dignissimos veritatis labore, beatae numquam, id quam ipsam laudantium praesentium.",
+      "username": "utkal",
+      "password": "utkalnial",
+      "image": "/image/utkal.jpg",
+      "jobposition": "SEO specialist",
+      "salary": 80000,
+      "currentproject": "project-4",
+      "joiningdate": "05/02/2015",
+      "islogin": false,
+      "attendance": [
+        {
+          "id": 1,
+          "date": "15/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 2,
+          "date": "16/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 3,
+          "date": "17/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "18/05/2021",
+          "attendance": "present",
+          "aparture": "10:00 am",
+          "departure": "05:00 pm"
+        },
+        {
+          "id": 4,
+          "date": "22/05/2021",
+          "attendance": "present",
+          "aparture": "14:31",
+          "departure": "20:31"
+        },
+        {
+          "id": 7,
+          "date": "02/09/2021",
+          "attendance": "present",
+          "aparture": "10:00",
+          "departure": "04:00"
+        }
+      ]
+    }
+  ],
+  "boss": [
+    {
+      "id": 1,
+      "name": "Hrudanand",
+      "username": "hruda",
+      "password": "Hruda0041",
+      "image": "/image/boss-profile.jpg"
+    }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "name": "Hrudanand",
+      "image": "/image/hruda.jpg",
+      "about": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus ad possimus nihil. Odit tempore eaque doloribus laboriosam. Minus eius placeat iure non aut natus totam ullam expedita possimus iste quibusdam itaque ex, dignissimos veritatis labore, beatae numquam, id quam ipsam laudantium praesentium.",
+      "skills": [
+        {
+          "name": "html",
+          "value": 80
+        },
+        {
+          "name": "css",
+          "value": 80
+        },
+        {
+          "name": "javascript",
+          "value": 70
+        },
+        {
+          "name": "react",
+          "value": 70
+        },
+        {
+          "name": "json",
+          "value": 80
+        },
+        {
+          "name": "bootstrap",
+          "value": 70
+        },
+        {
+          "name": "jquery",
+          "value": 70
+        }
+      ],
+      "topic": [
+        {
+          "name": "html",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus0",
+          "img": "/image/html.jpg",
+          "templates": [
+            "/image/html-template-1.jpg",
+            "/image/html-template-2.jpg",
+            "/image/html-template-3.jpg",
+            "/image/html-template-4.jpg"
+          ]
+        },
+        {
+          "name": "css",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus0",
+          "img": "/image/css.jpg",
+          "templates": [
+            "/image/css-template-1.jpg",
+            "/image/css-template-2.jpg",
+            "/image/css-template-3.jpg",
+            "/image/css-template-4.jpg"
+          ]
+        },
+        {
+          "name": "javascript",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus0",
+          "img": "/image/javascript.jpg",
+          "templates": [
+            "/image/javascript-template-1.jpg",
+            "/image/javascript-template-2.jpg",
+            "/image/javascript-template-3.jpg",
+            "/image/javascript-template-4.jpg"
+          ]
+        },
+        {
+          "name": "jquery",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus0",
+          "img": "/image/jquery.jpg",
+          "templates": [
+            "/image/jquery-template-1.jpg",
+            "/image/jquery-template-2.jpg",
+            "/image/jquery-template-3.jpg",
+            "/image/jquery-template-4.jpg"
+          ]
+        },
+        {
+          "name": "react",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus0",
+          "img": "/image/react.jpg",
+          "templates": [
+            "/image/react-template-1.jpg",
+            "/image/react-template-2.jpg",
+            "/image/react-template-3.jpg",
+            "/image/react-template-4.jpg"
+          ]
+        },
+        {
+          "name": "bootstrap",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus0",
+          "img": "/image/bootstrap.jpg",
+          "templates": [
+            "/image/bootstrap-template-1.jpg",
+            "/image/bootstrap-template-2.jpg",
+            "/image/bootstrap-template-3.jpg",
+            "/image/bootstrap-template-4.jpg"
+          ]
+        },
+        {
+          "name": "json",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui, delectus iure? Libero veniam est ipsa aut ullam corporis quidem temporibus dolor mollitia nobis accusantium officiis odit, laborum, non culpa totam dolorum dignissimos suscipit minima quam labore? Aliquid modi praesentium, omnis nisi reiciendis eaque odio distinctio ipsum reprehenderit dolorum tempore recusandae, exercitationem a magni similique doloremque? Accusamus ab commodi culpa. Consectetur esse repudiandae totam quae corporis, veniam delectus0",
+          "img": "/image/json.jpg",
+          "templates": [
+            "/image/json-template-1.jpg",
+            "/image/json-template-2.jpg",
+            "/image/json-template-3.jpg",
+            "/image/json-template-4.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "fullname": "hruda nial",
+      "email": "niyaljohn@gmail.com",
+      "mobile": 9178205803,
+      "text": "i am hruda i have  some query that want to discuss"
+    },
+    {
+      "fullname": "alok nial",
+      "email": "aloknial861@gmail.com",
+      "mobile": "9348855672",
+      "text": "hello this is alok i have some question about this website",
+      "id": 2
+    },
+    {
+      "fullname": "Deepak Nial",
+      "email": "deepaknial@cutm.ac.in",
+      "mobile": "9348855672",
+      "text": "it's me deepak do you talk with for some time i am confuse about some topic can you",
+      "id": 3
+    },
+    {
+      "fullname": "Hrudanand Nial",
+      "email": "niyaljohn@gmail.com",
+      "mobile": "",
+      "text": "i am hrudanand i want to visit your system\n",
+      "id": 4
+    }
+  ]
+}
