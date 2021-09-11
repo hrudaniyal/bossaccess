@@ -25,7 +25,7 @@ function Hero() {
             <div className='contentsection'>
                <Nav color={data} />
                <div className='herocontent'>
-                     <h2 className='headline'>boss management system</h2>
+                     <h2 className='headline'>The management system</h2>
                      <p className='headpara'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore distinctio eius aspernatur. Aut ut ea possimus debitis architecto reprehenderit eius.</p>
                      <button className='btn' style={{display:'block', margin:'0 auto',background:data.vibrant}} onClick={()=>setTimeout(myf,3000)}>let's start</button>
                </div>
