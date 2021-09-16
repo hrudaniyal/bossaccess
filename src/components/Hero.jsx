@@ -8,7 +8,7 @@ function Hero() {
     const image3 = '/image/image/mountain.jpg'
     const image4 = '/image/image/bike.jpg'
     const image5 = '/image/image/plant.jpg'
-
+    const hello ='hello i am hruda'
     const {data}  = usePalette(image)
     localStorage.setItem('color' , data.vibrant)
     const myf=()=>{
